@@ -6,10 +6,22 @@
 
 i'm nate
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
-Curabitur euismod metus nec arcu vulputate, quis gravida purus cursus. Pellentesque faucibus ultricies varius. Mauris feugiat lacinia placerat. Sed accumsan aliquam posuere. Suspendisse potenti. 
+#### Lorem ipsum dolor sit amet, consectetur adipiscing elit
+1. Curabitur euismod metus nec arcu vulputate, quis gravida purus cursus. 
+2. Pellentesque faucibus ultricies varius. 
+3. Mauris feugiat lacinia placerat. 
+	- Sed accumsan aliquam posuere. 
+	- Suspendisse potenti. 
+	- facilisis sed dictum cursus
 
+
+$$
+\displaystyle\sum_{k=3}^5 k^2=3^2 + 4^2 + 5^2 =50
+$$
+
+
+```
 ## Pellentesque 
 habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
 
