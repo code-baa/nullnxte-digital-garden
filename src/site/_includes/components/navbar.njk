@@ -1,34 +1,18 @@
-{% if settings.dgHomeLink === true %}
-<nav class="navbar" style="position: fixed; top: 0; left: 0; width: 100%; background: transparent; z-index: 9999; padding: 10px 20px; display: flex; flex-direction: column; align-items: flex-start;">
-    <!-- Site title -->
-    <a href="/" style="text-decoration: none; margin-bottom: 10px;">
-        <h1 style="margin: 0;">{{ meta.siteName }}</h1>
-    </a>
-
-    <!-- Menu items stacked vertically -->
-    <div style="display: flex; flex-direction: column; gap: 5px;">
-        <a href="/" style="text-decoration: none;">
-            <h4 style="margin: 0;">Home</h4>
-        </a>
-        <a href="/games" style="text-decoration: none;">
-            <h4 style="margin: 0;">Games</h4>
-        </a>
-        <a href="/music" style="text-decoration: none;">
-            <h4 style="margin: 0;">Music</h4>
-        </a>
-        <a href="/art" style="text-decoration: none;">
-            <h4 style="margin: 0;">Art</h4>
-        </a>
+{%if settings.dgHomeLink === true%}
+    <nav class="navbar">
+        <div class="navbar-inner">
+            <a href="/" style="text-decoration: none;">
+                <h1 style="margin: 15px !important;">{{meta.siteName}}</h1>
+            </a>
+        </div>
+        {% if settings.dgEnableSearch === true%}
+            {% include "components/searchButton.njk" %}
+        {%endif%}
+    </nav>
+    {%else%}
+    <div class="empty-navbar" >
+        {% if settings.dgEnableSearch === true%}
+            {% include "components/searchButton.njk" %}
+        {%endif%}
     </div>
-
-    {% if settings.dgEnableSearch === true %}
-        {% include "components/searchButton.njk" %}
-    {% endif %}
-</nav>
-{% else %}
-<div class="empty-navbar">
-    {% if settings.dgEnableSearch === true %}
-        {% include "components/searchButton.njk" %}
-    {% endif %}
-</div>
-{% endif %}
+{%endif%}
