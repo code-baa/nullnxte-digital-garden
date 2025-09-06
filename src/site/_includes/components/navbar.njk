@@ -1,23 +1,26 @@
 {% if settings.dgHomeLink === true %}
-<nav class="navbar" style="position: fixed; top: 0; left: 0; width: 100%; background: transparent; z-index: 9999; text-align: center; padding: 10px 0;">
-    <div class="navbar-inner">
-        <!-- Site title -->
+<nav class="navbar" style="position: fixed; top: 0; left: 0; width: 100%; background: transparent; z-index: 9999; padding: 10px 0; display: flex; align-items: center; justify-content: space-between;">
+    <!-- Site title on the left -->
+    <div style="flex: 1; text-align: left;">
         <a href="/" style="text-decoration: none;">
             <h1 style="margin: 0 15px;">{{ meta.siteName }}</h1>
         </a>
-
-        <!-- Your custom links -->
-        <a href="/" style="text-decoration: none;">
-            <h4 style="margin: 0 15px;">Home</h4>
-        </a>
-        <a href="/games" style="margin: 0 15px;">Games</a>
-        <a href="/music" style="margin: 0 15px;">Music</a>
-        <a href="/art" style="margin: 0 15px;">Art</a>
     </div>
 
-    {% if settings.dgEnableSearch === true %}
-        {% include "components/searchButton.njk" %}
-    {% endif %}
+    <!-- Menu items centered -->
+    <div style="flex: 1; text-align: center;">
+        <a href="/" style="margin: 0 15px; text-decoration: none;">Home</a>
+        <a href="/games" style="margin: 0 15px; text-decoration: none;">Games</a>
+        <a href="/music" style="margin: 0 15px; text-decoration: none;">Music</a>
+        <a href="/art" style="margin: 0 15px; text-decoration: none;">Art</a>
+    </div>
+
+    <!-- Search button on the right -->
+    <div style="flex: 1; text-align: right;">
+        {% if settings.dgEnableSearch === true %}
+            {% include "components/searchButton.njk" %}
+        {% endif %}
+    </div>
 </nav>
 {% else %}
 <div class="empty-navbar">
