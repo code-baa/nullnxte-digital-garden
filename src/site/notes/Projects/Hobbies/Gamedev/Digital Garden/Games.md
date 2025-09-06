@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"dg-path":"Games.md","permalink":"/games/","noteIcon":""}
+{"dg-publish":true,"dg-path":"Games.md","permalink":"/games/","dgHomeLink":true,"noteIcon":""}
 ---
 

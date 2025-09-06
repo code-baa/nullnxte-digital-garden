@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"dg-path":"Music.md","permalink":"/music/","title":"My Title","dgHomeLink":true,"noteIcon":""}
+{"dg-publish":true,"dg-path":"Music.md","permalink":"/music/","dgHomeLink":true,"noteIcon":""}
 ---
 

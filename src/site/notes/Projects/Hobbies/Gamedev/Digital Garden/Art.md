@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"dg-path":"Art.md","permalink":"/art/","noteIcon":""}
+{"dg-publish":true,"dg-path":"Art.md","permalink":"/art/","dgHomeLink":true,"noteIcon":""}
 ---
 
