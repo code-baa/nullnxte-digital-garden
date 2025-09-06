@@ -5,8 +5,8 @@
         <h1 style="margin: 0;">{{ meta.siteName }}</h1>
     </a>
 
-    <!-- Menu items container -->
-    <div style="display: flex; align-items: center; gap: 15px;">
+    <!-- Menu items stacked vertically -->
+    <div style="display: flex; flex-direction: column; gap: 5px;">
         <a href="/" style="text-decoration: none;">
             <h4 style="margin: 0;">Home</h4>
         </a>
@@ -19,11 +19,11 @@
         <a href="/art" style="text-decoration: none;">
             <h4 style="margin: 0;">Art</h4>
         </a>
-
-        {% if settings.dgEnableSearch === true %}
-            {% include "components/searchButton.njk" %}
-        {% endif %}
     </div>
+
+    {% if settings.dgEnableSearch === true %}
+        {% include "components/searchButton.njk" %}
+    {% endif %}
 </nav>
 {% else %}
 <div class="empty-navbar">
