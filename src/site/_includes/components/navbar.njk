@@ -1,18 +1,26 @@
-{%if settings.dgHomeLink === true%}
-    <nav class="navbar">
-        <div class="navbar-inner">
-            <a href="/" style="text-decoration: none;">
-                <h1 style="margin: 15px !important;">{{meta.siteName}}</h1>
-            </a>
-        </div>
-        {% if settings.dgEnableSearch === true%}
-            {% include "components/searchButton.njk" %}
-        {%endif%}
-    </nav>
-    {%else%}
-    <div class="empty-navbar" >
-        {% if settings.dgEnableSearch === true%}
-            {% include "components/searchButton.njk" %}
-        {%endif%}
+{% if settings.dgHomeLink === true %}
+<nav class="navbar" style="position: fixed; top: 0; left: 0; width: 100%; background: transparent; z-index: 9999; text-align: center; padding: 10px 0;">
+    <div class="navbar-inner">
+        <!-- Site title -->
+        <a href="/" style="text-decoration: none;">
+            <h1 style="margin: 0 15px;">{{ meta.siteName }}</h1>
+        </a>
+
+        <!-- Your custom links -->
+        <a href="/" style="margin: 0 15px;">Home</a>
+        <a href="/games" style="margin: 0 15px;">Games</a>
+        <a href="/music" style="margin: 0 15px;">Music</a>
+        <a href="/art" style="margin: 0 15px;">Art</a>
     </div>
-{%endif%}
+
+    {% if settings.dgEnableSearch === true %}
+        {% include "components/searchButton.njk" %}
+    {% endif %}
+</nav>
+{% else %}
+<div class="empty-navbar">
+    {% if settings.dgEnableSearch === true %}
+        {% include "components/searchButton.njk" %}
+    {% endif %}
+</div>
+{% endif %}
