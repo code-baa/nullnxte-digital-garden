@@ -2,10 +2,13 @@
     {%if fileOrFolder.isNote or fileOrFolder.isFolder%}
         <div x-show="isOpen" style="display:none" class="{{'filelist' if step>0}}">
             {%if fileOrFolder.isNote and not fileOrFolder.hide %}
+                {# Skip home/index page - adjust these conditions based on your home page setup #}
+                {% if not (fileOrFolder.name == 'Home' or fileOrFolder.name == 'Index' or fileOrFolderName == 'index' or fileOrFolder.permalink == '/') %}
                 <div @click.stop class="notelink {{ 'active-note' if fileOrFolder.permalink === permalink}}">
                     {%- if not meta.noteIconsSettings.filetree -%}<i icon-name="sticky-note" aria-hidden="true"></i>{%- endif -%}
                     <a data-note-icon="{{fileOrFolder.noteIcon}}" style="text-decoration: none;" class="filename" href="{{fileOrFolder.permalink}}">{{fileOrFolder.name}} </a>
                 </div>
+                {% endif %}
             {% elif fileOrFolder.isFolder%}
                 <div class="folder inner-folder"  x-data="{isOpen: $persist(false).as('{{currentPath}}')}" @click.stop="isOpen=!isOpen">
                     <div class="foldername-wrapper align-icon">
@@ -49,7 +52,10 @@
         {%endif%}
          <div class="folder" x-data="{isOpen: true}">
                {%- for fileOrFolderName, fileOrFolder in filetree -%}
-                  {{menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName)}}
+                  {# Skip home page at root level too #}
+                  {% if not (fileOrFolder.name == 'Home' or fileOrFolder.name == 'Index' or fileOrFolderName == 'index' or fileOrFolder.permalink == '/') %}
+                     {{menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName)}}
+                  {% endif %}
                {%- endfor -%}
          </div>
       </nav>
