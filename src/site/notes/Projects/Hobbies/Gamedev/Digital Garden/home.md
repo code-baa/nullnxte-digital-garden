@@ -20,9 +20,6 @@ $$
 \displaystyle\sum_{k=3}^5 k^2=3^2 + 4^2 + 5^2 =50
 $$
 
-
-
-```
 ## Pellentesque 
 habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
 
