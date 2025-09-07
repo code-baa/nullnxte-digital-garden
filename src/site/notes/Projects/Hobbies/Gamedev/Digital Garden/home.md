@@ -1,5 +1,5 @@
 ---
-{"dg-home-link":true,"dg-show-local-graph":false,"dg-show-backlinks":true,"dg-show-toc":true,"dg-show-inline-title":null,"dg-show-file-tree":true,"dg-enable-search":true,"dg-link-preview":true,"dg-show-tags":true,"dg-home":true,"dg-publish":true,"dg-path":"home.md","permalink":"/home/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true,"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-path":"home.md","permalink":"/home/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 ## hey
