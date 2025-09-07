@@ -5,7 +5,7 @@
 ---
 <a href="/" target="_self">← go back home</a>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding-top: 120px;">
 
   <!-- Heading text link -->
   <div style="margin-right: 20px; text-align: center;">
@@ -13,7 +13,6 @@
       <h2>Flywheel</h2>
     </a>
   </div>
-
   <!-- Image -->
   <div style="display: flex; flex-direction: column; justify-content: center; align-items:center;">
     <a href="https://codesheep.itch.io/flywheel">
