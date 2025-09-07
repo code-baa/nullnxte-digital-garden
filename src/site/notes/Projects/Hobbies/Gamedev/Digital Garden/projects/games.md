@@ -6,7 +6,6 @@
 <a href="/" target="_self">← Go back home</a>
 
 
-
 <div style="
   display: flex;
   flex-direction: column;
