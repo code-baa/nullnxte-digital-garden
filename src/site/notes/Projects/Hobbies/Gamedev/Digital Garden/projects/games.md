@@ -6,20 +6,36 @@
 <a href="/" target="_self">← Go back home</a>
 
 <div style="
-  display: flex; 
-  flex-direction: column; 
-  align-items: center; 
+  position: relative; 
+  display: inline-block; 
   max-width: 380px; 
-  box-shadow: 0 6px 20px rgba(0,0,0,0.2); 
+  margin: 5rem auto 3rem auto; /* top 5rem, bottom 3rem */
   border-radius: 8px; 
   overflow: hidden; 
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2); 
   transition: transform 0.3s ease;
-  margin: 3rem auto;
-">
+" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
 
-  <!-- Title -->
-  <div style="text-align: center; padding: 1rem 0;">
-    <a href="https://codesheep.itch.io/flywheel" style="text-decoration: none; color: inherit;">
+  <!-- Image -->
+  <a href="https://codesheep.itch.io/flywheel">
+    <img 
+      src="https://img.itch.zone/aW1hZ2UvMzQwOTM2MS8yMDM0ODYxOC5wbmc=/347x500/RKkta6.png" 
+      alt="Flywheel" 
+      style="width: 100%; display: block;"
+    />
+  </a>
+
+  <!-- Title overlay at bottom with gradient -->
+  <div style="
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    width: 100%; 
+    padding: 1rem; 
+    text-align: left; 
+    background: linear-gradient(to right, rgba(0,0,0,0.8), rgba(0,0,0,0));
+  ">
+    <a href="https://codesheep.itch.io/flywheel" style="text-decoration: none; color: #fff;">
       <h2 style="margin:0; font-size:1.8rem; position: relative; display: inline-block;">
         Flywheel
         <span style="position:absolute; left:0; bottom:-5px; height:3px; width:100%; background:#cfaf90; border-radius:2px;"></span>
@@ -27,18 +43,10 @@
     </a>
   </div>
 
-  <!-- Image -->
-  <a href="https://codesheep.itch.io/flywheel" style="display: block; width: 100%;">
-    <img 
-      src="https://img.itch.zone/aW1hZ2UvMzQwOTM2MS8yMDM0ODYxOC5wbmc=/347x500/RKkta6.png" 
-      alt="Flywheel" 
-      style="width: 100%; display: block;"
-      onmouseover="this.parentElement.parentElement.style.transform='scale(1.03)'" 
-      onmouseout="this.parentElement.parentElement.style.transform='scale(1)'"
-    />
-  </a>
-
 </div>
+
+
+
 
 
 
