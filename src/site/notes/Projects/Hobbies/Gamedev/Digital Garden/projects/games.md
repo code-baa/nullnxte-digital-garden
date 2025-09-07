@@ -6,7 +6,7 @@
 <a href="/" target="_self">← Go back home</a>
 
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 2rem; margin-top: 5rem;">
+<div style="display: flex; align-items: flex-start; gap: 2rem; margin-top: 5rem;">
 
   <!-- Flywheel card -->
   <div style="
@@ -27,33 +27,34 @@
     </a>
   </div>
 
-  <!-- Right-hand section with overlay and description -->
-  <div style="display: flex; flex-direction: column; justify-content: center; max-width: 300px; gap: 0.5rem;">
+  <!-- Right-hand content -->
+  <div style="display: flex; flex-direction: column; gap: 0.5rem; max-width: 300px;">
 
-    <!-- Overlay gradient title bar -->
+    <!-- Gradient title above the text -->
     <div style="
-      position: relative;
       width: 100%;
-      max-width: 380px; /* match image card width */
-      padding: 0.5rem 1rem;
+      padding: 1rem;
       background: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0));
-      font-size: 1.8rem;
-      font-weight: bold;
       color: #fff;
-      border-radius: 4px;
+      border-radius: 4px 0 0 4px;
     ">
       <a href="https://codesheep.itch.io/flywheel" style="text-decoration: none; color: inherit;">
-        Flywheel
+        <h2 style="margin:0; font-size:1.8rem; position: relative; display: inline-block;">
+          Flywheel
+          <span style="position:absolute; left:0; bottom:-5px; height:3px; width:100%; background:#cfaf90; border-radius:2px;"></span>
+        </h2>
       </a>
     </div>
 
-    <!-- Description text -->
-    <div style="text-align: center; font-size: 1rem; line-height: 1.5;">
+    <!-- Description text, left-justified and flush with gradient -->
+    <p style="margin:0; font-size:1rem; line-height:1.5;">
       Made in a week, this was a game made for WheelJam 2025.
-    </div>
+    </p>
+
   </div>
 
 </div>
+
 
 
 
