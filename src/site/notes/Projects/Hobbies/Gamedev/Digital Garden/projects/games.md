@@ -3,9 +3,7 @@
 ---
 
 ---
-<a href="/" target="_self">← go back home</a>
-
-<a href="/" target="_self" style="display: inline-block; margin-bottom: 2rem; color: #0af; text-decoration: none;">← Go back home</a>
+<a href="/" target="_self">← Go back home</a>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 2rem; margin-top: 3rem;">
 
