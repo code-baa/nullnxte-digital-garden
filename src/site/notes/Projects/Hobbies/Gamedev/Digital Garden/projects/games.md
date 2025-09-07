@@ -86,7 +86,7 @@
     box-shadow: 0 6px 20px rgba(0,0,0,0.2);
     transition: transform 0.3s ease;
   " onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="/src/site/image_card.png" alt="Your Project" />
+      <img src="/images/image_card.png" alt="Your Project" />
   </div>
 
   <!-- Overlay title above description -->
