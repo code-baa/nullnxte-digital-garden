@@ -86,7 +86,11 @@
     box-shadow: 0 6px 20px rgba(0,0,0,0.2);
     transition: transform 0.3s ease;
   " onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="/images/image_card.png" alt="Your Project" />
+      <img 
+        src="https://raw.githubusercontent.com/code-baa/nullnxte-digital-garden/refs/heads/main/public/images/image_card.png" 
+        alt="??????" 
+        style="width: 100%; display: block;"
+      />
   </div>
 
   <!-- Overlay title above description -->
@@ -99,7 +103,7 @@
     box-sizing: border-box;
   ">
       <h2 style="margin:0; font-size:1.8rem; position: relative; display: inline-block;">
-        ??????
+        ???
         <span style="position:absolute; left:0; bottom:-5px; height:3px; width:100%; background:#cfaf90; border-radius:2px;"></span>
       </h2>
   </div>
@@ -113,7 +117,7 @@
     line-height:1.5;
     text-align: left;
   ">
-    I am currently working on a multiplayer game that will be announced some time in the future.
+    I am currently working on an unannounced multiplayer game.
   </p>
 
 </div>
