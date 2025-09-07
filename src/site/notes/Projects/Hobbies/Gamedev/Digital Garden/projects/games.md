@@ -6,12 +6,13 @@
 <a href="/" target="_self">← Go back home</a>
 
 
-<div style="display: flex; align-items: flex-start; gap: 2rem; margin-top: 5rem;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem; margin-top: 5rem; justify-content: center;">
 
   <!-- Flywheel card -->
   <div style="
     position: relative; 
-    display: inline-block; 
+    flex-shrink: 0;
+    width: 100%;
     max-width: 380px; 
     border-radius: 8px; 
     overflow: hidden; 
@@ -28,13 +29,13 @@
   </div>
 
   <!-- Right-hand content -->
-  <div style="display: flex; flex-direction: column; gap: 0.5rem; max-width: 300px;">
+  <div style="flex: 1; min-width: 250px; display: flex; flex-direction: column; gap: 0.5rem;">
 
     <!-- Gradient title above the text -->
     <div style="
-      width: 100%;
+      display: inline-block;
       padding: 1rem;
-      background: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0));
+      background: linear-gradient(to right, rgba(0,0,0,0.8), rgba(0,0,0,0));
       color: #fff;
       border-radius: 4px 0 0 4px;
     ">
@@ -46,7 +47,7 @@
       </a>
     </div>
 
-    <!-- Description text, left-justified and flush with gradient -->
+    <!-- Description text -->
     <p style="margin:0; font-size:1rem; line-height:1.5;">
       Made in a week, this was a game made for WheelJam 2025.
     </p>
@@ -54,6 +55,7 @@
   </div>
 
 </div>
+
 
 
 
