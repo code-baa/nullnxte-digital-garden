@@ -5,19 +5,33 @@
 ---
 <a href="/" target="_self">← go back home</a>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding-top: 120px;">
+<a href="/" target="_self" style="display: inline-block; margin-bottom: 2rem; color: #0af; text-decoration: none;">← Go back home</a>
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 2rem; margin-top: 3rem;">
 
   <!-- Heading text link -->
-  <div style="margin-right: 20px; text-align: center;">
+  <div style="text-align: center;">
     <a href="https://codesheep.itch.io/flywheel" style="text-decoration: none; color: inherit;">
-      <h2>Flywheel</h2>
+      <h2 style="margin:0; font-size:2rem; position: relative; display: inline-block;">
+  Flywheel
+  <span style="position:absolute; left:0; bottom:-5px; height:3px; width:100%; background:#cfaf90; border-radius:2px;"></span>
+</h2>
+
     </a>
   </div>
+
   <!-- Image -->
-  <div style="display: flex; flex-direction: column; justify-content: center; align-items:center;">
+  <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://codesheep.itch.io/flywheel">
-      <img style="padding-right: 20px" src="https://img.itch.zone/aW1hZ2UvMzQwOTM2MS8yMDM0ODYxOC5wbmc=/347x500/RKkta6.png" alt="Flywheel"/>
+      <img 
+        src="https://img.itch.zone/aW1hZ2UvMzQwOTM2MS8yMDM0ODYxOC5wbmc=/347x500/RKkta6.png" 
+        alt="Flywheel" 
+        style="max-width: 350px; border-radius: 8px; box-shadow: 0 6px 20px rgba(0,0,0,0.4); transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'"
+      />
     </a>
   </div>
 
 </div>
+
