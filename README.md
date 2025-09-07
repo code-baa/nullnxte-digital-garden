@@ -1,1 +1,1 @@
-# [nullnxte.com](nullnxte.com)
+# [nullnxte.com](www.nullnxte.com)
