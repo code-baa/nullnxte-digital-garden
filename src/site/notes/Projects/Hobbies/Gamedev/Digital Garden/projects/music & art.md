@@ -3,6 +3,6 @@
 ---
 
 ---
-<a href="/" target="_self">← go back home</a>
+<a href="/" target="_self">← Go back home</a>
 
 
