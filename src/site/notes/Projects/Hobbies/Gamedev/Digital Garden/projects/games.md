@@ -71,8 +71,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 5rem;
-  gap: 1rem;
 ">
 <blockquote>
 ...there's [a game] about engine flywheels and I'll bet you can figure out where the wheel is in there.
