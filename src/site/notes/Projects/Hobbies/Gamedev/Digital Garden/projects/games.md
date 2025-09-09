@@ -44,7 +44,7 @@
   ">
     <a href="https://codesheep.itch.io/flywheel" style="text-decoration: none; color: #fff;">
       <h2 style="margin:0; font-size:1.8rem; position: relative; display: inline-block;">
-        Flywheel
+        Flywheel, 2025
         <span style="position:absolute; left:0; bottom:-5px; height:3px; width:100%; background:#cfaf90; border-radius:2px;"></span>
       </h2>
     </a>
@@ -57,9 +57,9 @@
     margin:0;
     font-size:1rem;
     line-height:1.5;
-    text-align: left;
+    text-align: center;
   ">
-    Made in a week, this was a game made for WheelJam 2025.
+    Tinker and experiment with different pistons to balance stress levels and get engines running. <br> This game was made in one week for <a href="https://itch.io/jam/wheeljam">WheelJam  2025</a>
   </p>
 
 </div>
@@ -102,7 +102,7 @@
     box-sizing: border-box;
   ">
       <h2 style="margin:0; font-size:1.8rem; position: relative; display: inline-block;">
-        ???
+        Unannounced, 2026
         <span style="position:absolute; left:0; bottom:-5px; height:3px; width:100%; background:#cfaf90; border-radius:2px;"></span>
       </h2>
   </div>
@@ -116,7 +116,7 @@
     line-height:1.5;
     text-align: left;
   ">
-    I am currently working on an unannounced multiplayer game.
+    ????
   </p>
 
 </div>
