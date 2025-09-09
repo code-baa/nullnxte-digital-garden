@@ -59,7 +59,17 @@
     line-height:1.5;
     text-align: center;
   ">
-    Tinker and experiment with different pistons to balance stress levels and get engines running. <br> <br>This game was made in one week for <a href="https://itch.io/jam/wheeljam">WheelJam  2025</a> <br> <br><a href = "https://www.pcgamer.com/games/that-game-jam-based-on-oblivions-terrible-persuasion-wheel-actually-produced-some-good-weird-ideas/">PCGAMER</a>
+    Tinker and experiment with different pistons to balance stress levels and get engines running. 
+    <br> 
+    <br>This game was made in one week for 
+    <a href="https://itch.io/jam/wheeljam">WheelJam  2025</a> 
+    <br> 
+    <br>
+    <q>
+	"*...there's [a game] about engine flywheels and I'll bet you can figure out where the wheel is in there.*"
+    </q>
+    <br> 
+    <a href = "https://www.pcgamer.com/games/that-game-jam-based-on-oblivions-terrible-persuasion-wheel-actually-produced-some-good-weird-ideas/">PCGamer</a>
   </p>
 
 </div>
