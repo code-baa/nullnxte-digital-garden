@@ -63,18 +63,22 @@
     <br> 
     <br>This game was made in one week for 
     <a href="https://itch.io/jam/wheeljam">WheelJam  2025</a> 
-    <br> 
-    <br>
-    <q>
-	"*...there's [a game] about engine flywheels and I'll bet you can figure out where the wheel is in there.*"
-    </q>
-    <br> 
-    <a href = "https://www.pcgamer.com/games/that-game-jam-based-on-oblivions-terrible-persuasion-wheel-actually-produced-some-good-weird-ideas/">PCGamer</a>
   </p>
 
 </div>
 
-
+<div style="
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5rem;
+  gap: 1rem;
+">
+<blockquote>
+...there's [a game] about engine flywheels and I'll bet you can figure out where the wheel is in there.
+</blockquote>
+<a href = "https://www.pcgamer.com/games/that-game-jam-based-on-oblivions-terrible-persuasion-wheel-actually-produced-some-good-weird-ideas/">PCGamer</a>
+</div>
 ---
 
 <div style="
