@@ -59,7 +59,7 @@
     line-height:1.5;
     text-align: center;
   ">
-    Tinker and experiment with different pistons to balance stress levels and get engines running. 
+    <em>Tinker and experiment with different pistons to balance stress levels and get engines running. </em>
     <br> 
     <br>This game was made in one week for 
     <a href="https://itch.io/jam/wheeljam">WheelJam  2025</a> 
