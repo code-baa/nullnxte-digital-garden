@@ -74,8 +74,10 @@
 ">
 <blockquote>
 ...there's [a game] about engine flywheels and I'll bet you can figure out where the wheel is in there.
+<a href = "https://www.pcgamer.com/games/that-game-jam-based-on-oblivions-terrible-persuasion-wheel-actually-produced-some-good-weird-ideas/">- PCGamer</a>
 </blockquote>
-<a href = "https://www.pcgamer.com/games/that-game-jam-based-on-oblivions-terrible-persuasion-wheel-actually-produced-some-good-weird-ideas/">PCGamer</a>
+
+
 </div>
 
 ---
