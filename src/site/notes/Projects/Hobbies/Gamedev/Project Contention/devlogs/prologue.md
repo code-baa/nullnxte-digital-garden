@@ -5,12 +5,11 @@
 ---
 <a href="/" target="_self">← Go back home</a>
  
-### Prologue: The road here
+### *How We Got Here*
 
 >
   *We did this not because it was easy, but because we thought it would be easy.*
-> 
- 
+<p><br><br></p>
  
  
  
