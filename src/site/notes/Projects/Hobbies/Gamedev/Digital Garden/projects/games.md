@@ -59,14 +59,17 @@
     line-height:1.5;
     text-align: center;
   ">
-    <em>Tinker and experiment with different pistons to balance stress levels and get engines running. </em>
+    <em>Tinker and experiment with different pistons to balance stress levels and get engines running. <a href="https://codesheep.itch.io/flywheel"><u>itch.io</u></a></em>
     <br> 
-    <br>This game was made in one week for 
-    <a href="https://itch.io/jam/wheeljam">WheelJam  2025</a> 
+    <br>
   </p>
-
 </div>
-
+<center>
+<p>
+    This game was made in one week for 
+    <a href="https://itch.io/jam/wheeljam"><u>WheelJam  2025</u></a> 
+    </p>
+</center>
 <div style="
   display: flex;
   flex-direction: column;
@@ -74,7 +77,7 @@
 ">
 <blockquote>
 ...there's [a game] about engine flywheels and I'll bet you can figure out where the wheel is in there.
-<a href = "https://www.pcgamer.com/games/that-game-jam-based-on-oblivions-terrible-persuasion-wheel-actually-produced-some-good-weird-ideas/">- PCGamer</a>
+<a href = "https://www.pcgamer.com/games/that-game-jam-based-on-oblivions-terrible-persuasion-wheel-actually-produced-some-good-weird-ideas/">- <u>PCGamer</u></a>
 </blockquote>
 
 
