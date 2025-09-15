@@ -21,10 +21,10 @@
 
 
 #### **games**  
-interactive experiences that blend art and sound
+
 
 #### **art**  
-digital and traditional media exploring [your themes]
+digital and traditional media
 
 
 
