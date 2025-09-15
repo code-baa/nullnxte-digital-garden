@@ -59,17 +59,17 @@
     line-height:1.5;
     text-align: center;
   ">
-    <em>Tinker and experiment with different pistons to balance stress levels and get engines running. <a href="https://codesheep.itch.io/flywheel"><u>itch.io</u></a></em>
+    <em>Tinker and experiment with different pistons to balance stress levels and get engines running. 
+    <br>
+    This game was made in one week for 
+    <a href="https://itch.io/jam/wheeljam"><u>WheelJam  2025</u></a> 
+    <br>
+    <a href="https://codesheep.itch.io/flywheel"><u>itch.io</u></a></em>
     <br> 
+    
     <br>
   </p>
 </div>
-<center>
-<p>
-    This game was made in one week for 
-    <a href="https://itch.io/jam/wheeljam"><u>WheelJam  2025</u></a> 
-    </p>
-</center>
 <div style="
   display: flex;
   flex-direction: column;
