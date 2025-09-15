@@ -4,17 +4,21 @@
 
 # hi. 
 ## i'm nate, and i'm making 
-### music / games / art 
+### [music](https://www.nullnxte.com/projects/music) / [games](https://www.nullnxte.com/projects/games) / [art ](https://www.nullnxte.com/projects/art)
 --- 
+<div>
+<br>
+<p> </p>
+</div>
 ### presently
-#### i'm working on an **unannounced** multiplayer game
+#### i'm working on an unannounced project
 → [read my devlogs](https://www.nullnxte.com/devlogs/prologue) and follow along 
 
 <div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<br>
+<p> </p>
+<br>
+<p> </p>
 </div>
 
 --- 
