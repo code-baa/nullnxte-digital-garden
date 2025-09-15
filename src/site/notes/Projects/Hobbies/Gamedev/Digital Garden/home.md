@@ -11,11 +11,13 @@
 → [read my devlogs](https://www.nullnxte.com/devlogs/prologue) and follow along 
 
 <div>
-<br>
-<br>
-<br>
-<br>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </div>
+
 --- 
+
 _last updated: sept 2025_ 
 _made with ❤ using Obsidian & DigitalGarden_
