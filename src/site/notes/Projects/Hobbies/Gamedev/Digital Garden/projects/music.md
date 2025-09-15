@@ -3,8 +3,9 @@
 ---
 
 ---
-<a href="/" target="_self">← Go back home</a>
+<a href="/" target="_self">← Go back home</a> 
 
+> music for film, games, reflection, and escaping. ten years crafting ambient, electronic, and orchestral pieces
 
 
 
