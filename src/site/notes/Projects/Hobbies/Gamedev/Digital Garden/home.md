@@ -3,7 +3,7 @@
 ---
 
 # hi. 
-## i'm nate, and i'm making 
+## i'm Nate, and i'm making 
 ### <a href="https://www.nullnxte.com/projects/games" target="_self">games</a>  /  <a href="https://www.nullnxte.com/projects/music" target="_self">music</a>  /  <a href="https://www.nullnxte.com/projects/art" target="_self">art</a>
 --- 
 <div style="height: 10px;"></div>
