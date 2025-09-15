@@ -5,11 +5,10 @@
 ---
 <a href="/" target="_self">← Go back home</a> 
 
-> music for film, games, reflection, and escaping. 
->  
-> i've spent ten years crafting ambient, electronic, and orchestral pieces
+### music for film, games, reflection, and escaping. 
+#### ten years crafting ambient, electronic, and orchestral pieces
 
-
+<div style="height: 120px;"></div>
 
 <div style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
 
