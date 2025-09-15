@@ -2,13 +2,13 @@
 {"dg-publish":true,"dg-path":"home.md","permalink":"/home/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":""}
 ---
 
-#### hi. i'm nate and i'm making
-##### _music / game development / art_
+#### hi. i'm nate. i'm making
+##### _music / games / art_
 
 ---
 
 #### **music**  
-ten years crafting ambient, electronic, and orchestral pieces / music for film, games, reflection, and escaping
+> music for film, games, reflection, and escaping. ten years crafting ambient, electronic, and orchestral pieces
 
 
 <div style="max-width: 800px; margin: 0 auto; padding: 0 20px;">
