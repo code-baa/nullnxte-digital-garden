@@ -4,12 +4,12 @@
 
 # hi. 
 ## i'm nate, and i'm making 
-### [music](https://www.nullnxte.com/projects/music) / [games](https://www.nullnxte.com/projects/games) / [art ](https://www.nullnxte.com/projects/art)
+### [games](https://www.nullnxte.com/projects/games)  /  [music](https://www.nullnxte.com/projects/music)  /   [art ](https://www.nullnxte.com/projects/art)
 --- 
 <div style="height: 80px;"></div>
 ### presently
 #### i'm working on an unannounced project
-→ [read my devlogs](https://www.nullnxte.com/devlogs/prologue) and follow along 
+- [read my devlogs](https://www.nullnxte.com/devlogs/prologue) and follow along 
 
 <div style="height: 200px;"></div>
 
