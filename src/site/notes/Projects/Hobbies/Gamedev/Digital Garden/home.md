@@ -29,4 +29,4 @@ working on an **unannounced** multiplayer game, read my [devlogs](https://www.nu
 
 ---
 
-_updated [15 - SEPTEMBER - 2025]_
+_updated at **1757962600** in Unix Epoch Time :)
