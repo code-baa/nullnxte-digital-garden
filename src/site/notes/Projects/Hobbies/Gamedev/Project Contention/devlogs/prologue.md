@@ -7,7 +7,7 @@
 <div style="height: 50px;"></div>
 
 <blockquote>
-"*We did this not because it was easy, but because we thought it would be easy.*"
+"We did this not because it was easy, but because we thought it would be easy."
 </blockquote>
 <div style="height: 50px;"></div>
 Making games is hard.  It encompasses many different disciplines that are each careers in their own right.
