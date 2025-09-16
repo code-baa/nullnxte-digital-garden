@@ -10,7 +10,7 @@
 
 ### presently
 #### i'm working on an unannounced multiplayer project 
-- [read my devlogs](https://www.nullnxte.com/devlogs/prologue) and follow along 
+- <a href="https://www.nullnxte.com/devlogs/prologue" target="_self">read my devlogs</a> and follow along 
 
 
 <div style="height: 200px;"></div>
