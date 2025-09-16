@@ -9,7 +9,7 @@
 <div style="height: 10px;"></div>
 
 ### presently
-#### i'm working on an unannounced project
+#### i'm working on an unannounced multiplayer project 
 - [read my devlogs](https://www.nullnxte.com/devlogs/prologue) and follow along 
 
 
