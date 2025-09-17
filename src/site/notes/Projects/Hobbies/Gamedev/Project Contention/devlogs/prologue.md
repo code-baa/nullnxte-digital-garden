@@ -26,7 +26,7 @@ Some projects and prototypes throughout the years
 
 ---
 ### Looking forward
-Last year I decided to pick up Godot and try to learn every part of it -- to really take a crack at understanding, prototyping, and learning as much as I can. I haven't looked back. I wanted to commit myself to finishing things, and start releasing the projects I started. If you're a creative of any discipline, you certainly know the struggle. 
+Last year I decided to pick up Godot and try to learn every part of it -- to really take a crack at learning, prototyping, and understanding as much as I can. I haven't looked back. I wanted to commit myself to finishing things, and start releasing the projects I started. If you're a creative of any discipline, you certainly know the struggle. 
 
 I did my first game jam this year and released a short demo of a game called Flywheel. It was a small win on it's face, but the reality is that it took me (only) 10 years to 'finish' something; to present a project in a playable state with actual game design implemented. It felt immensely rewarding to see people play something I made and actually get stumped on a puzzle. It certainly gave me the confidence to know I could do something bigger. And if you're going to go big, why hold back?
 
