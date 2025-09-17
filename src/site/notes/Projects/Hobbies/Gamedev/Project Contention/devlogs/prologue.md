@@ -30,7 +30,7 @@ Last year I decided to pick up Godot and try to learn every part of it -- to rea
 
 I did my first game jam this year and released a short demo of a game called Flywheel. It was a small win on it's face, but the reality is that it took me (only) 10 years to 'finish' something; to present a project in a playable state with actual game design implemented. It felt immensely rewarding to see people play something I made and actually get stumped on a puzzle. It certainly gave me the confidence to know I could do something bigger. And if you're going to go big, why hold back?
 
-Four failed-starts later and I'm working on that 'something big. It might look terrible, it might not be fun, it may be total crap, but I'm going to finish and release it. I'll be documenting the journey on here, to no particular audience. 
+Four failed-starts later and I'm working on that 'something big'. It might look terrible, it might not be fun, it may be total crap, but I'm going to finish and release it. I'll be documenting the journey on here, to no particular audience. 
 
 If you do happen to be reading this, welcome in. I hope you enjoyed the whirlwind tour of my progress up until this point. Come along for the ride and let's see where this barnacle-ridden boat takes us.
 
