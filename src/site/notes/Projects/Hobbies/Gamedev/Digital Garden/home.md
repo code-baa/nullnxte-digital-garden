@@ -9,7 +9,7 @@
 <div style="height: 10px;"></div>
 
 ### presently
-#### i'm working on an unannounced multiplayer project 
+#### i'm working on small projects in Godot
 - <a href="https://www.nullnxte.com/devlogs/prologue" target="_self">read my devlogs</a> and follow along 
 
 
