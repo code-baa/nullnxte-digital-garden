@@ -16,11 +16,15 @@ It turns out that making games isn't the only hard part; finishing projects is j
 <div style="height: 50px;"></div>
 If last devlog was any indication: I am not good at finishing projects. Perhaps it's my ADHD or just the dopamine rush of a clean slate and nothing weighing you down as you tread new ground. Either way, it's not something that comes easy for me when making games.
 
-I started really focusing on games in February of last year, 2024. That's almost two years ago as of this writing. I have, on a quick mental tally that may or not be accurate, had 8 false start projects since then -- and one single game jam release (with only 3 levels). 
+I started really focusing on games in February of last year, 2024. That's almost two years ago as of this writing. I have (on a quick mental tally that may or not be accurate) had 8 false start projects since then -- and one single game jam release (with only 3 levels). 
 
 That's a piss poor track record, and I'd be lying if I said I didn't feel pretty bad about it. I **want** to finish things, I **want** to see my ideas come to fruition, but often times my ideas hold too much weight for my experience to bear. It's as if I have a tea cup's capacity for development and my ideas always seem to swell to the volume of an Olympic-sized swimming pool. 
 
+Now, if this resonates at all with you reading this: take heart -- it is not a bad thing. Indeed, to be overflowing with ideas that inspire you to no end is perhaps one of the most valuable things you can have making games. What great amount of material you have to explore. However, I know all too well how difficult it is to reign in this beast of inspiration. 
 
+##### So, how do I plan to finish things? And how can my experiences hopefully help you?
+
+## 1. Starting small
 ---
 
 
