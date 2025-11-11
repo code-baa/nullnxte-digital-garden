@@ -17,7 +17,7 @@
 ---
 It turns out that making games isn't the only hard part; finishing projects is just as important, and just as difficult.
 <div style="height: 50px;"></div>
-If last devlog was any indication: I am not good at finishing projects. Perhaps it's my ADHD or just the dopamine rush of a clean slate and nothing weighing you down as I tread new ground. Either way, it's not something that comes easy for me when making games.
+If last devlog was any indication: I am not good at finishing projects. Perhaps it's my ADHD or just the dopamine rush of a clean slate and nothing weighing me down as I tread new ground. Either way, it's not something that comes easy for me when making games.
 
 I started really focusing on games in February of last year, 2024. That's almost two years ago as of this writing. I have (on a quick mental tally that may or not be accurate) had 8 false start projects since then -- ***and only one single game jam release (with only 3 levels).*** 
 
