@@ -50,7 +50,7 @@ I was always so annoyed hearing this, and it was easy to keep scrolling to the n
     </a>
   </div></center>
 
-<center>*Actual image of my brain when someone says 'just start small'*</center>
+<center><i>Actual image of my brain when someone says 'just start small'</i></center>
 
 ##### Easier said than done
 How do we find small ideas, and keep the scope small throughout the project? [Game Maker's Tool Kit](https://gmtk.substack.com/p/how-to-find-amazing-game-ideas) has a great article on how to find great game ideas. The reason I bring up this article is because Mark discusses finding the **core idea**, and ruthlessly trimming the fat until you get there. I think, furthermore, that great ideas are rarely made on paper first. 
