@@ -41,7 +41,7 @@ I was always so annoyed hearing this, and it was easy to keep scrolling to the n
     box-shadow: 0 6px 20px rgba(0,0,0,0.2);
     transition: transform 0.3s ease;
   " onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-    <a href="https://codesheep.itch.io/flywheel">
+    <a>
       <img 
         src="https://github.com/code-baa/nullnxte-digital-garden/blob/main/public/images/4940943885450545990.jpg?raw=true" 
         alt="Man throwing ball at cowering, scared person" 
