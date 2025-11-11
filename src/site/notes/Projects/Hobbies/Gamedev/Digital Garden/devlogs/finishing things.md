@@ -32,25 +32,9 @@ I believe I've made it abundantly clear that I'm still figuring this out. I hope
 ---
 I was always so annoyed hearing this, and it was easy to keep scrolling to the next piece of advice -- but it is ubiquitous for a reason. It is the **antithesis** of Olympic-sized swimming pool ideas; a very affront to my huge, genius game plans. But that's precisely the point. 
 <div style="height: 50px;"></div>
-  <div style="
-    position: relative;
-    width: 100%;
-    max-width: 380px;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 6px 20px rgba(0,0,0,0.2);
-    transition: transform 0.3s ease;
-  " onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-    <a href="https://codesheep.itch.io/flywheel">
-      <img 
-        src="https://github.com/code-baa/nullnxte-digital-garden/blob/main/public/images/4940943885450545990.jpg?raw=true" 
-        alt="Man throwing ball at cowering, scared person" 
-        style="width: 100%; display: block;"
-      />
-    </a>
-  </div>
+<div style="display: flex; justify-content: center; width: 100%;"> <div style=" position: relative; width: 100%; max-width: 380px; border-radius: 8px; overflow: hidden; box-shadow: 0 6px 20px rgba(0,0,0,0.2); transition: transform 0.3s ease; " onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"><img src="https://github.com/code-baa/nullnxte-digital-garden/blob/main/public/images/4940943885450545990.jpg?raw=true" alt="Man throwing ball at cowering, scared person" style="width: 100%; display: block;" /> </a> </div>
 
-*Actual image of my brain when someone says 'just start small'*
+<center>*Actual image of my brain when someone says 'just start small'*</center>
 
 ##### Easier said than done
 How do we find small ideas, and keep the scope small throughout the project? [Game Maker's Tool Kit](https://gmtk.substack.com/p/how-to-find-amazing-game-ideas) has a great article on how to find great game ideas. The reason I bring up this article is because Mark discusses finding the **core idea**, and ruthlessly trimming the fat until you get there. I think, furthermore, that great ideas are rarely made on paper first. 
